@@ -1,0 +1,2 @@
+my_worlds:robot_description
+-DCATKIN_DEVEL_PREFIX=/home/devi/projs/CollisionDetectionPlan/simulation_ws/devel -DCMAKE_INSTALL_PREFIX=/home/devi/projs/CollisionDetectionPlan/simulation_ws/install -G Unix Makefiles
